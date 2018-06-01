@@ -1,0 +1,2 @@
+# PyCharm
+exercises in pycharm
